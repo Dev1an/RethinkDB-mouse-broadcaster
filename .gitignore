@@ -1,0 +1,4 @@
+Browser/node_modules
+node_modules
+Database/node_modules
+Database/rethinkdb_data

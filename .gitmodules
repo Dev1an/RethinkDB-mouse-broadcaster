@@ -1,0 +1,3 @@
+[submodule "Websocket Proxy"]
+	path = Websocket Proxy
+	url = https://Dev1an@github.com/kanaka/websockify.git
